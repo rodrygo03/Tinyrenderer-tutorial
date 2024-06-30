@@ -5,6 +5,8 @@ project(tinyrenderer)
 
 set(SOURCE_FILES
     src/vendor/tgaimage/tgaimage.cpp
+    src/vendor/model/geometry.h
+    src/vendor/model/model.cpp
     src/main.cpp
 )
 
